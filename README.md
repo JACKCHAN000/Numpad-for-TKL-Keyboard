@@ -11,5 +11,6 @@ AutoHotkey Numpad for 87 Keyboard
 
 > [https://www.autohotkey.com/](https://www.autohotkey.com/)
 
-**Step2: Enjoy it **
+
+**Step2: Enjoy it.**
 

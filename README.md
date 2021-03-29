@@ -6,6 +6,7 @@ AutoHotkey Numpad for TKL Keyboard
 # Function: 
 
 **Double tap "Alt" to enable Numpad**
+
 **Double tap "Alt" to disable Numpad**
 # Instruction: 
 
